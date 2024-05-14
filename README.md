@@ -47,7 +47,7 @@ As a front-end engineer, your focus is mainly on the files that load **on the us
 
 1. You will **clone this repository** to your computer, which will allow you to run the software locally for development and testing purposes.
 
-1. You will navigate your terminal to the project folder **and execute `npm install`**. This will install the libraries declared inside `package.json`. Some of these packages are needed for the back-end to do its job of serving JSON data and front-end assets. Other libs help with things like testing and linting your code.
+1. You will navigate your terminal to the project folder **and execute `npm install`**. This will install the libraries declared inside npm install. Some of these packages are needed for the back-end to do its job of serving JSON data and front-end assets. Other libs help with things like testing and linting your code.
 
 1. After successful installation you will run, in separate terminals, two of the scripts found inside `package.json`. To do this, **execute `npm start` in your first terminal, and `npm test` in your second**. On successful start, you will load the app in Chrome by **navigating the browser to `http://localhost:3003`**. The term "localhost" means "your machine", and the number is called a port, allowing multiple web servers to run on the same computer, with one server per port.
 
